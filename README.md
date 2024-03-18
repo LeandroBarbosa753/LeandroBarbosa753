@@ -33,10 +33,6 @@ Firts///////////////////////
   ##
  
 <div> 
- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:barbosaleandro753@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-barbosa-ab09481b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
@@ -45,10 +41,22 @@ Firts///////////////////////
 
 Second///////////////////////
 -->
+Eu sou um estudante de 19 anos do curso de Sistemas para Internet no IFMA. 
 
+Aqui estão algumas coisas sobre mim:
+
+- 🔭 Atualmente, estou trabalhando em dois projetos principais:
+    1. Monitoramento de Dióxido de Carbono usando Arduino.
+    2. Monitoramento de Enchentes com uso de ESP32.
+- 🌱 Atualmente, estou aprendendo e praticando desenvolvimento Front End, Mobile e Back End.
+- 🤔 Estou procurando ajuda com projetos complexos que envolvem monitoramento ambiental e robótica.
+- 💬 Pergunte-me sobre meus projetos atuais, minhas habilidades técnicas ou qualquer coisa relacionada à tecnologia!
+- ⚡ Fato divertido: Além de ser um entusiasta da tecnologia, também estou ativo no laboratório de robótica!
+- 🌎 Adoro aprender novos idiomas e linguagens de programação. Acredito que a aprendizagem contínua é a chave para o crescimento pessoal e profissional.
+  
 <p align="center">
 
-  
+
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -72,14 +80,11 @@ Second///////////////////////
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 ![Adonisjs](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-
-
 
 #### Studying in this moment:
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
@@ -97,7 +102,6 @@ Second///////////////////////
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 
-
 ## Contacts:
 <div> 
 <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>-->
@@ -106,8 +110,7 @@ Second///////////////////////
 <a href="https://dev.to/leandrobarbosa753" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"  target="_blank"></a> 
 
 
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4081&height=130&section=footer"/>
 
 </div>
 
