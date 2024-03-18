@@ -41,24 +41,29 @@ Firts///////////////////////
 
 Second///////////////////////
 -->
-Eu sou um estudante de 19 anos do curso de Sistemas para Internet no IFMA. 
-
-Aqui estão algumas coisas sobre mim:
-
-- 🔭 Atualmente, estou trabalhando em dois projetos principais:
-    1. Monitoramento de Dióxido de Carbono usando Arduino.
-    2. Monitoramento de Enchentes com uso de ESP32.
-- 🌱 Atualmente, estou aprendendo e praticando desenvolvimento Front End, Mobile e Back End.
-- 🤔 Estou procurando ajuda com projetos complexos que envolvem monitoramento ambiental e robótica.
-- 💬 Pergunte-me sobre meus projetos atuais, minhas habilidades técnicas ou qualquer coisa relacionada à tecnologia!
-- ⚡ Fato divertido: Além de ser um entusiasta da tecnologia, também estou ativo no laboratório de robótica!
-- 🌎 Adoro aprender novos idiomas e linguagens de programação. Acredito que a aprendizagem contínua é a chave para o crescimento pessoal e profissional.
-  
 <p align="center">
-
 
 </p>&nbsp;
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&random=false&width=600&height=60&lines=Hello%2C+my+name+is+Leandro;I'm+19+years+old;I'm+a+Software+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
+
+
+### Hello 👋
+
+I'm a student studying "Internet Systems" at IFMA. 
+
+Here are some things about me:
+
+- 🔭 I'm currently working on two main projects:
+    1. Carbon Dioxide Monitoring using Arduino.
+    2. Flood Monitoring using ESP32.
+- 🌱 I'm currently learning and practicing Front End, Mobile, and Back End development.
+- 🤔 I'm looking for help with complex projects involving environmental monitoring and robotics.
+- 💬 Ask me about my current projects, my technical skills, or anything related to technology!
+- ⚡ Fun fact: In addition to being a technology enthusiast, I'm also active in the robotics lab!
+- 🌎 I love learning new languages and programming languages. I believe that continuous learning is the key to personal and professional growth.
+
+  
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LeandroBarbosa753&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=LEandroBarbosa753&show_icons=true&theme=radical&layout=compact" />
