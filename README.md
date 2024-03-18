@@ -45,7 +45,7 @@ Second///////////////////////
 
 </p>&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=FF4081&center=true&random=false&width=600&height=60&lines=Hello%2C+my+name+is+Leandro;I'm+19+years+old;I'm+a+Software+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=FF4081&vCenter=true&random=false&width=600&height=60&lines=Hello%2C+my+name+is+Leandro;I'm+19+years+old;I'm+a+Software+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
 
 ### Hello 👋
 
