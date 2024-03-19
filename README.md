@@ -41,15 +41,12 @@ Firts///////////////////////
 
 Second///////////////////////
 -->
-<p align="center">
 
-</p>&nbsp;
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=FF4081&vCenter=true&random=false&width=600&height=60&lines=Hello%2C+my+name+is+Leandro;I'm+19+years+old;I'm+a+Software+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF4081&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Leandro;I'm+19+years+old;I'm+a+Software+Developer;I'm+from+Brazil;U+r+welcome!)](https://git.io/typing-svg)
+##
 ### Hello 👋
 
-I'm a student studying "Internet Systems" at IFMA. 
+I'm a student studying Internet Systems at IFMA. 
 
 Here are some things about me:
 
