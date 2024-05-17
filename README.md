@@ -53,7 +53,8 @@ Here are some things about me:
 - 🔭 I'm currently working on two main projects:
     1. Carbon Dioxide Monitoring using Arduino.
     2. Flood Monitoring using ESP32.
-- 🌱 I'm currently learning and practicing Front End, Mobile, and Back End development.
+- 🌱 I'm currently learning and practicing Front End
+<!--, Mobile, and Back End development.-->
 - 🤔 I'm looking for help with complex projects involving environmental monitoring and robotics.
 - 💬 Ask me about my current projects, my technical skills, or anything related to technology!
 - ⚡ Fun fact: In addition to being a technology enthusiast, I'm also active in the robotics lab!
@@ -83,12 +84,14 @@ Here are some things about me:
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+<!--
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-
+-->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
-![Adonisjs](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)&nbsp;
+<!--
+![Adonisjs](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)&nbsp;-->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 #### Studying in this moment:
