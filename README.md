@@ -53,8 +53,7 @@ Here are some things about me:
 - 🔭 I'm currently working on two main projects:
     1. Carbon Dioxide Monitoring using Arduino.
     2. Flood Monitoring using ESP32.
-- 🌱 I'm currently learning and practicing Front End.<!--, Mobile, and Back End development.-->
-- 🤔 I'm looking for help with complex projects involving environmental monitoring and robotics.
+- 🌱 I'm currently learning and practicing Front End.<!--, Mobile, and Back End development.--><!-- - 🤔 I'm looking for help with complex projects involving environmental monitoring and robotics.-->
 - 💬 Ask me about my current projects, my technical skills, or anything related to technology!
 - ⚡ Fun fact: In addition to being a technology enthusiast, I'm also active in the robotics lab!
 - 🌎 I love learning new languages and programming languages. I believe that continuous learning is the key to personal and professional growth.
