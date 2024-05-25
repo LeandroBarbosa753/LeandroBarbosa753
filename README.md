@@ -44,7 +44,7 @@ Second///////////////////////
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=FF4081&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello%2C+my+name+is+Leandro;I'm+19+years+old;I'm+a+Software+Developer;I'm+from+Brazil;U+r+welcome!)](https://git.io/typing-svg)
 ##
-### Hello 👋
+<!--### Hello 👋-->
 
 I'm a student studying Internet Systems at IFMA. 
 
