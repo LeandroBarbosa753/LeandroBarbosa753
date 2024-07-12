@@ -50,9 +50,8 @@ I'm a student studying Internet Systems at IFMA.
 
 Here are some things about me:
 
-- 🔭 I'm currently working on two main projects:
+- 🔭 I'm currently working on:
     1. Carbon Dioxide Monitoring using Arduino.
-    2. Flood Monitoring using ESP32.
 - 🌱 I'm currently learning and practicing Data Analytics.<!--, Mobile, and Back End development.--><!-- - 🤔 I'm looking for help with complex projects involving environmental monitoring and robotics.- 💬 Ask me about my current projects, my technical skills, or anything related to technology!-->
 - ⚡ Fun fact: In addition to being a technology enthusiast<!--, I'm also active in the robotics lab!-->
 - 🌎 I love learning new languages and programming languages. I believe that continuous learning is the key to personal and professional growth.
@@ -94,7 +93,6 @@ Here are some things about me:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;-->
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 #### Studying in this moment:
