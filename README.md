@@ -6,7 +6,7 @@
 I'm a student studying Internet Systems at IFMA. 
 
 Here are some things about me:
-- 🌱 I'm currently learning and practicing Data Analytics.
+- 🌱 I'm currently learning and practicing back-end.
 - ⚡ Fun fact: In addition to being a technology enthusiast
 - 🌎 I love learning new languages and programming languages. I believe that continuous learning is the key to personal and professional growth.
 
@@ -28,11 +28,11 @@ Here are some things about me:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
-[![My Skills](https://skillicons.dev/icons?i=typescript,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,react,adonis,nest&theme=light)](https://skillicons.dev)
 
-#### Studying in this moment:
+<!--#### Studying in this moment:
 [![My Skills](https://skillicons.dev/icons?i=mysql,python&theme=light)](https://skillicons.dev)
-
+-->
 
 #### Databases:
 
@@ -46,7 +46,6 @@ Here are some things about me:
 
 ## Contacts:
 <div> 
-<!--<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>-->
   
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:barbosaleandro753@gmail.com)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leandrobarbosav/)
