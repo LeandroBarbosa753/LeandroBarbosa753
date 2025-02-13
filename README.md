@@ -28,7 +28,7 @@ Here are some things about me:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
-[![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,react,adonis,nest&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,react,adonis,nest,next,tailwind&theme=light)](https://skillicons.dev)
 
 <!--#### Studying in this moment:
 [![My Skills](https://skillicons.dev/icons?i=mysql,python&theme=light)](https://skillicons.dev)
