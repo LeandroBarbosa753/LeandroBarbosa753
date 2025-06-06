@@ -60,7 +60,7 @@
     <tr>
       <td align="center" valign="top" width="80"><br />
         <a href="https://github.com/LeandroBarbosa753/toolshare">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="80" height="80" />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="60" height="60" />
         </a>
       </td>
       <td valign="top">
@@ -74,7 +74,7 @@
     <tr>
       <td align="center" valign="top" width="80"><br />
         <a href="https://github.com/LeandroBarbosa753/recipes">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Cooking.png" alt="Cooking" width="80" height="80" />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Cooking.png" alt="Cooking" width="60" height="60" />
         </a>
       </td>
       <td valign="top">
