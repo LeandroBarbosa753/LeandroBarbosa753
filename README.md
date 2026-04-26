@@ -1,19 +1,19 @@
-<div align="center">
+<!-- <div align="center">
   <img height="350em" src="assets/Banner.png"/>
-</div>
+</div> -->
 
 <h3 align="center">
   <span style="vertical-align: middle;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" height="30" />
   </span>
-  Software Developer • Back-end <!--Specialist-->
+  Data Scientist • AI <!--Specialist-->
   <span style="vertical-align: middle;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" />
   </span>
 </h3>
 
 <div align='center'>
-
+<!--
 <div align="center">  
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeandroBarbosa753&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
@@ -21,7 +21,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroBarbosa753&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
 </div>
-
+-->
 </div>
 
 <div><br /></div>
@@ -38,14 +38,14 @@
 
 ## &nbsp;About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="40" height="40" style="vertical-align: middle;" />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute Light Skin Tone" width="30" height="30" style="vertical-align: text-bottom;" /> Hello there! My name is **Leandro Barbosa** and I am a **Software Developer**. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Light%20Skin%20Tone.png" alt="Man Scientist Light Skin Tone" width="30" height="30" style="vertical-align: text-bottom;" /> My current goal is become a **Full-stack Developer**.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" height="30" style="vertical-align: text-bottom;" /> My main stack is **JavaScript/TypeScript**.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute Light Skin Tone" width="30" height="30" style="vertical-align: text-bottom;" /> Hello there! My name is **Leandro Barbosa** and I am a **Data Scientist**. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Light%20Skin%20Tone.png" alt="Man Scientist Light Skin Tone" width="30" height="30" style="vertical-align: text-bottom;" /> My current goal is become a **Data Scientist Senior**.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" height="30" style="vertical-align: text-bottom;" /> My main stack is **Python**.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" style="vertical-align: text-bottom;" /> I am a technology enthusiast, consistently seeking to expand my knowledge.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" style="vertical-align: text-bottom;" /> Currently, I am studying **back-end development** and **advanced TypeScript**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" style="vertical-align: text-bottom;" /> Currently, I am studying **Data Science** and **AI**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="30" height="30" style="vertical-align: text-bottom;" /> I am here to make a valuable contribution to the developer community.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Man Mage Light Skin Tone" width="30" height="30" style="vertical-align: text-bottom;" /> **It's dangerous to go alone! [Follow me!](https://github.com/LeandroBarbosa753)**
-
+<!--s
 <img src="assets/LineBar.png" width="100%" height="8px"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="40" height="40" style="vertical-align: middle;" /> &nbsp;Pinned Repositories
@@ -104,7 +104,7 @@
     <img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=181717&color=3D4547&logoWidth=30" alt="DEV.to" />
   </a>
 </div>
-
+-->
 <br />
 
 <img src="assets/LineBar.png" width="100%" height="8px"/>
